@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "170271486531",
+    "firebase_url": "https://sage-hypercube-app-bad4a.firebaseio.com",
+    "project_id": "sage-hypercube-app-bad4a",
+    "storage_bucket": "sage-hypercube-app-bad4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170271486531:android:7d9da6313915df3a",
+        "android_client_info": {
+          "package_name": "com.sage.br.sagehypercube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170271486531-l3rgalgj9040t3j9b1bcmt08kie5ridl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgr2JbnEQm0jRXsRrvuzQ_8QerFnfhJrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170271486531-l3rgalgj9040t3j9b1bcmt08kie5ridl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "170271486531-nqc2jimkr3gm918554eot7tvbmiifm4t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sage.sagehypercube"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170271486531:android:1f61bb7b41187ab4bbdaf6",
+        "android_client_info": {
+          "package_name": "com.sage.poc_flutter_push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170271486531-t7tl2mrkrekpcdqplp0n54mcld2gbqva.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sage.poc_flutter_push",
+            "certificate_hash": "afc5bcda0a1e396f06b58f7db55f5a1a75674edd"
+          }
+        },
+        {
+          "client_id": "170271486531-l3rgalgj9040t3j9b1bcmt08kie5ridl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgr2JbnEQm0jRXsRrvuzQ_8QerFnfhJrI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170271486531-l3rgalgj9040t3j9b1bcmt08kie5ridl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "170271486531-nqc2jimkr3gm918554eot7tvbmiifm4t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sage.sagehypercube"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

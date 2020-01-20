@@ -1,4 +1,4 @@
-package com.example.flutter_push
+package com.sage.poc_flutter_push
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
